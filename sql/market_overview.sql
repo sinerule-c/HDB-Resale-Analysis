@@ -200,6 +200,7 @@ SELECT
     COUNT(*) AS million_dollar_transactions
 FROM hdb_resale
 WHERE resale_price >= 1000000
+	AND sale_month < '2026-01-01'
 GROUP BY YEAR(sale_month)
 ORDER BY sale_year;
 
