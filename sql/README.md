@@ -57,6 +57,8 @@ ORDER BY total_transactions DESC;
 - Central area location likely explains the high price per sqm.
 - Small floor area explains the lower total resale price.
 
-  **The market/hawker indicator was unsuitable for price comparison because only 22 transactions matched the category, all involving small flats in the central area and concentrated in a single building. The observed price difference could not be separated from location and property-type effects.**
+**The market/hawker indicator was unsuitable for price comparison because only 22 transactions matched the category, all involving small flats in the central area and concentrated in a single building. The observed price difference could not be separated from location and property-type effects.**
   <br>
-  ### 2.
+  ### 2. Are flats in taller HDB buildings associated with higher resale price per sqm?
+
+  
